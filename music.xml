@@ -1,5 +1,160 @@
-<? xml version="1.0" encoding="UTF-8" ?>
-<>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Group>
+    <Names>
+            <Completo>Swimmers</Completo>
+            <Siglas>SWMRS</Siglas>
+            <Alias>Swimmers</Alias>
+            <Alias>Emily's Army</Alias>
+            <Alias>The Clocks</Alias>
+            <Alias>The Raining Souls</Alias>
+    </Names>
+
+    <Years
+        Creacion="2004"
+        Demos="2008"
+        PrimerAlbum="2011"
+        Hasta="Actualmente"
+    />
+
+    <Genres>
+        <Genero>Punk</Genero>
+        <Genero>Rock</Genero>
+        <Genero>Pop</Genero>
+        <Genero>Surf</Genero>
+        <Genero></Genero>
+    </Genres>
+
+    <Origin
+        Siglas="USA"
+        Pais="Estados unidos"
+        Ciudad="California"
+        Distrito="Oakland"
+    />
+
+    <Webs 
+        WikipediaEN="https://en.wikipedia.org/wiki/SWMRS"
+    />
+
+    <Image
+        ImagenURL="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.salarazzmatazz.com%2F23-02-2019%2Fswmrs&psig=AOvVaw06-_25C5xkMKFQXZwJS2G5&ust=1571337806632000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjnqtG3oeUCFQAAAAAdAAAAABAE"
+        />
+
+    <Youtube>
+        <clip>https://www.youtube.com/watch?v=oDk8KA7gxro</clip>
+        <clip>https://www.youtube.com/watch?v=TKPII0eosFA</clip>
+        <clip>https://www.youtube.com/watch?v=wLjnelFF4Aw</clip>
+        <clip>https://www.youtube.com/watch?v=JpAOLlw7-F8</clip>
+        <clip>https://www.youtube.com/watch?v=OjUdC2MbI88</clip>
+    </Youtube>
+
+    <Members>
+        <CurrentMember>
+            <Name>Cole</Name>
+            <Surname>Becker</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2004</BandJoinDate>
+            <BandLeftDate>Actualmente</BandLeftDate>
+            <Role>Main Vocal</Role>
+            <Role>Guitarrista</Role>
+            <Role></Role>
+            <Instrument>Guitarra Española</Instrument>
+            <Instrument>Pianos</Instrument>
+            <Instrument>Sintetizadores</Instrument>
+        </CurrentMember>
+        <CurrentMember>
+            <Name>Max</Name>
+            <Surname>Becker</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2004</BandJoinDate>
+            <BandLeftDate>Actualmente</BandLeftDate>
+            <Role>Backing Vocals</Role>
+            <Role>Guitarrista</Role>
+            <Role></Role>
+            <Instrument>Guitarra Eléctrica</Instrument>
+            <Instrument>Bajo</Instrument>
+            <Instrument></Instrument>
+        </CurrentMember>
+        <CurrentMember>
+            <Name>Joey</Name>
+            <Surname>Armstrong</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2004</BandJoinDate>
+            <BandLeftDate>Actualmente</BandLeftDate>
+            <Role>Backing Vocals</Role>
+            <Role>Batería</Role>
+            <Role></Role>
+            <Instrument>Batería</Instrument>
+            <Instrument>Percusión</Instrument>
+            <Instrument></Instrument>
+        </CurrentMember>
+        <CurrentMember>
+            <Name>Seb</Name>
+            <Surname>Muller</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2004</BandJoinDate>
+            <BandLeftDate>Actualmente</BandLeftDate>
+            <Role>Backing Vocals</Role>
+            <Role>Bajísta</Role>
+            <Role></Role>
+            <Instrument>Bajo</Instrument>
+            <Instrument></Instrument>
+            <Instrument></Instrument>
+        </CurrentMember>
+        <FormerMember>
+            <Name>Travis</Name>
+            <Surname>Neumann</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2009</BandJoinDate>
+            <BandLeftDate>2014</BandLeftDate>
+            <Role>Backing Vocals</Role>
+            <Role>Guitarrista</Role>
+            <Role></Role>
+            <Instrument>Guitarra Eléctrica</Instrument>
+            <Instrument></Instrument>
+            <Instrument></Instrument>
+        </FormerMember>
+        <TouringMember>
+            <Name>Henry</Name>
+            <Surname>Webb-Jenkis</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2019</BandJoinDate>
+            <BandLeftDate>Actualmente</BandLeftDate>
+            <Role>Baking Vocals</Role>
+            <Role>Guitarrista</Role>
+            <Role></Role>
+            <Instrument>Guitarra Española</Instrument>
+            <Instrument>Piano</Instrument>
+            <Instrument></Instrument>
+        </TouringMember>
+        <FormerTouringMember>
+            <Name>Jakob Danger</Name>
+            <Surname>Amstong</Surname>
+            <BornDate></BornDate>
+            <BandJoinDate>2018</BandJoinDate>
+            <BandLeftDate>2019</BandLeftDate>
+            <Role>Backing Vocals</Role>
+            <Role>Bajísta</Role>
+            <Role></Role>
+            <Instrument>Bajo</Instrument>
+            <Instrument>Guitarra Española</Instrument>
+            <Instrument>Piano</Instrument>
+        </FormerTouringMember>
+    </Members>
+    
+    <Related>
+    
+    </Related>
+    
+    <Discography>
+        
+    </Discography>
+</Group>
+
+
+
+
+
+
 
 
 
