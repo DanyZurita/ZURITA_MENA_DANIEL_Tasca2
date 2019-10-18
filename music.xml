@@ -412,6 +412,60 @@
             <Album>
                 <Name>Berkeley's in Fire</Name>
                 <Year>2019</Year>
+                <Label>Fueled by Ramen</Label>
+                <TotalLength>33:15</TotalLength>
+                <Songs>
+                    <Song>
+                        <Number>1</Number>
+                        <Title>Berkeley's on Fire</Title>
+                        <Length>3:48</Length>
+                    </Song>
+                    <Song>
+                        <Number>2</Number>
+                        <Title>Too Much Coffee</Title>
+                        <Length>3:25</Length>
+                    </Song>
+                    <Song>
+                        <Number>3</Number>
+                        <Title>Trashbag Baby</Title>
+                        <Length>3:17</Length>
+                    </Song>
+                    <Song>
+                        <Number>4</Number>
+                        <Title>Lose Lose Lose</Title>
+                        <Length>3:35</Length>
+                    </Song>
+                    <Song>
+                        <Number>5</Number>
+                        <Title>Appril in Houston</Title>
+                        <Length>3:05</Length>
+                    </Song>
+                    <Song>
+                        <Number>6</Number>
+                        <Title>Lonely Ghosts</Title>
+                        <Length>3:12</Length>
+                    </Song>
+                    <Song>
+                        <Number>7</Number>
+                        <Title>IKEA Date</Title>
+                        <Length>3:43</Length>
+                    </Song>
+                    <Song>
+                        <Number>8</Number>
+                        <Title>Hellboy</Title>
+                        <Length>3:03</Length>
+                    </Song>
+                    <Song>
+                        <Number>9</Number>
+                        <Title>Bad Allergies</Title>
+                        <Length>3:33</Length>
+                    </Song>
+                    <Song>
+                        <Number>10</Number>
+                        <Title>Steve Got Robbed</Title>
+                        <Length>2:38</Length>
+                    </Song>
+                </Songs>
             </Album>
         </Albums>
         <EPs>
