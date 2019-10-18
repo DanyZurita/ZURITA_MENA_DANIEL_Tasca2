@@ -332,6 +332,82 @@
             <Album>
                 <Name>Drive North</Name>
                 <Year>2016</Year>
+                <Label>Uncool</Label>
+                <Label>Burger</Label>
+                <Label>Fueled by Ramen</Label>
+                <TotalLength>45:56</TotalLength>
+                <Songs>
+                    <Song>
+                        <Number>1</Number>
+                        <Title>Harry Dean</Title>
+                        <Length>2:49</Length>
+                    </Song>
+                    <Song>
+                        <Number>2</Number>
+                        <Title>BRB</Title>
+                        <Length>3:29</Length>
+                    </Song>
+                    <Song>
+                        <Number>3</Number>
+                        <Title>Miss Yer Kiss</Title>
+                        <Length>3:11</Length>
+                    </Song>
+                    <Song>
+                        <Number>4</Number>
+                        <Title>Turn Up</Title>
+                        <Length>2:35</Length>
+                    </Song>
+                    <Song>
+                        <Number>5</Number>
+                        <Title>Figuring It Out</Title>
+                        <Length>3:57</Length>
+                    </Song>
+                    <Song>
+                        <Number>6</Number>
+                        <Title>Ruining My Pretending</Title>
+                        <Length>3:15</Length>
+                    </Song>
+                    <Song>
+                        <Number>7</Number>
+                        <Title>Uncool</Title>
+                        <Length>2:44</Length>
+                    </Song>
+                    <Song>
+                        <Number>8</Number>
+                        <Title>Miley</Title>
+                        <Length>4:13</Length>
+                    </Song>
+                    <Song>
+                        <Number>9</Number>
+                        <Title>D'You Have a Car?</Title>
+                        <Length>3:18</Length>
+                    </Song>
+                    <Song>
+                        <Number>10</Number>
+                        <Title>Hannah</Title>
+                        <Length>2:45</Length>
+                    </Song>
+                    <Song>
+                        <Number>11</Number>
+                        <Title>Silver Bullet</Title>
+                        <Length>3:18</Length>
+                    </Song>
+                    <Song>
+                        <Number>12</Number>
+                        <Title>Drive North</Title>
+                        <Length>3:2</Length>
+                    </Song>
+                    <Song>
+                        <Number>13</Number>
+                        <Title>Palm Trees</Title>
+                        <Length>3:05</Length>
+                    </Song>
+                    <Song>
+                        <Number>14</Number>
+                        <Title>Lose It</Title>
+                        <Length>4:00</Length>
+                    </Song>
+                </Songs>
             </Album>
             <Album>
                 <Name>Berkeley's in Fire</Name>
