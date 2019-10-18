@@ -243,11 +243,91 @@
             <Album>
                 <Name>Lost at Seventeen</Name>
                 <Year>2013</Year>
-                <Song>
+                <Label>Adeline</Label>
+                <Label>Rise</Label>
+                <TotalLength>45:27</TotalLength>
+                <Songs>
+                    <Song>
                         <Number>1</Number>
-                        <Title>Broadcast This</Title>
+                        <Title>Part Time Burn</Title>
                         <Length>2:17</Length>
                     </Song>
+                    <Song>
+                        <Number>2</Number>
+                        <Title>Jamie</Title>
+                        <Length>2:04</Length>
+                    </Song>
+                    <Song>
+                        <Number>3</Number>
+                        <Title>Gübermensch</Title>
+                        <Length>3:18</Length>
+                    </Song>
+                    <Song>
+                        <Number>4</Number>
+                        <Title>Avenue</Title>
+                        <Length>2:52</Length>
+                    </Song>
+                    <Song>
+                        <Number>5</Number>
+                        <Title>I Am The President</Title>
+                        <Length>3:03</Length>
+                    </Song>
+                    <Song>
+                        <Number>6</Number>
+                        <Title>The Kids Just Wanna Dance</Title>
+                        <Length>2:50</Length>
+                    </Song>
+                    <Song>
+                        <Number>7</Number>
+                        <Title>Pathetic and in Love</Title>
+                        <Length>3:37</Length>
+                    </Song>
+                    <Song>
+                        <Number>8</Number>
+                        <Title>On The Roof</Title>
+                        <Length>2:45</Length>
+                    </Song>
+                    <Song>
+                        <Number>9</Number>
+                        <Title>The Rescuers</Title>
+                        <Length>4:04</Length>
+                    </Song>
+                    <Song>
+                        <Number>10</Number>
+                        <Title>War</Title>
+                        <Length>2:28</Length>
+                    </Song>
+                    <Song>
+                        <Number>11</Number>
+                        <Title>Rain</Title>
+                        <Length>3:17</Length>
+                    </Song>
+                    <Song>
+                        <Number>12</Number>
+                        <Title>If Our Music Plays Again</Title>
+                        <Length>3:27</Length>
+                    </Song>
+                    <Song>
+                        <Number>13</Number>
+                        <Title>18 Years</Title>
+                        <Length>2:15</Length>
+                    </Song>
+                    <Song>
+                        <Number>14</Number>
+                        <Title>Elephant</Title>
+                        <Length>2:15</Length>
+                    </Song>
+                    <Song>
+                        <Number>15</Number>
+                        <Title>Digital Drugs</Title>
+                        <Length>3:28</Length>
+                    </Song>
+                    <Song>
+                        <Number>16</Number>
+                        <Title>Lost at 17</Title>
+                        <Length>3:14</Length>
+                    </Song>
+                </Songs>
             </Album>
             <Album>
                 <Name>Drive North</Name>
