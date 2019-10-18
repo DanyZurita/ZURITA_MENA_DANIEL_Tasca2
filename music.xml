@@ -142,11 +142,70 @@
     </Members>
     
     <Related>
-    
+        <RelatedBand>
+            <Name>Frankenshark</Name>
+        </RelatedBand>
+        <RelatedBand>
+            <Name>Matt Grocott & The Shrives</Name>
+        </RelatedBand>
+        <RelatedBand>
+            <Name>DDG</Name>
+        </RelatedBand>
+        <RelatedBand>
+            <Name>Black Demarco</Name>
+        </RelatedBand>
+        <RelatedBand>
+            <Name>Family Projects</Name>
+        </RelatedBand>
     </Related>
     
     <Discography>
-        
+        <Albums>
+            <Album>
+                <Name>Don't Be a Dick</Name>
+                <Year>2011</Year>
+            </Album>
+            <Album>
+                <Name>Lost at Seventeen</Name>
+                <Year>2013</Year>
+            </Album>
+            <Album>
+                <Name>Drive North</Name>
+                <Year>2016</Year>
+            </Album>
+            <Album>
+                <Name>Berkeley's in Fire</Name>
+                <Year>2019</Year>
+            </Album>
+        </Albums>
+        <EPs>
+            <EP>
+                <Name>Goody Two Shoes</Name>
+                <Year>2009</Year>
+            </EP>
+            <EP>
+                <Name>Broadcast This</Name>
+                <Year>2010</Year>
+            </EP>
+            <EP>
+                <Name>Regan MacNeil</Name>
+                <Year>2010</Year>
+            </EP>
+            <EP>
+                <Name>Swim</Name>
+                <Year>2014</Year>
+            </EP>
+            <EP>
+                <Name>Miley/Uncool</Name>
+                <Year>2015</Year>
+            </EP>
+        </EPs>
+        <Demos>
+            <Demo>
+                <Name>This Kid.</Name>
+                <Year>2008</Year>
+            </Demo>
+        </Demos>
     </Discography>
 </Group>
 
