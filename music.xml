@@ -164,10 +164,90 @@
             <Album>
                 <Name>Don't Be a Dick</Name>
                 <Year>2011</Year>
+                <Label>Adeline</Label>
+                <Label>Rise</Label>
+                <TotalLength>33:57</TotalLength>
+                <Songs>
+                    <Song>
+                        <Number>1</Number>
+                        <Title>Broadcast This</Title>
+                        <Length>2:17</Length>
+                    </Song>
+                    <Song>
+                        <Number>2</Number>
+                        <Title>Strictly for the Birds</Title>
+                        <Length>2:09</Length>
+                    </Song>
+                    <Song>
+                        <Number>3</Number>
+                        <Title>Asslete</Title>
+                        <Length>2:23</Length>
+                    </Song>
+                    <Song>
+                        <Number>4</Number>
+                        <Title>Rom Drom</Title>
+                        <Length>2:13</Length>
+                    </Song>
+                    <Song>
+                        <Number>5</Number>
+                        <Title>Little Face</Title>
+                        <Length>2:01</Length>
+                    </Song>
+                    <Song>
+                        <Number>6</Number>
+                        <Title>Ho-lloween</Title>
+                        <Length>2:13</Length>
+                    </Song>
+                    <Song>
+                        <Number>7</Number>
+                        <Title>West Coast</Title>
+                        <Length>3:22</Length>
+                    </Song>
+                    <Song>
+                        <Number>8</Number>
+                        <Title>Statutory Brainrape</Title>
+                        <Length>2:23</Length>
+                    </Song>
+                    <Song>
+                        <Number>9</Number>
+                        <Title>Burn Apollo</Title>
+                        <Length>2:45</Length>
+                    </Song>
+                    <Song>
+                        <Number>10</Number>
+                        <Title>The Gutter</Title>
+                        <Length>2:20</Length>
+                    </Song>
+                    <Song>
+                        <Number>11</Number>
+                        <Title>Regan MacNeil</Title>
+                        <Length>2:39</Length>
+                    </Song>
+                    <Song>
+                        <Number>12</Number>
+                        <Title>I Wanna be Remembered</Title>
+                        <Length>2:07</Length>
+                    </Song>
+                    <Song>
+                        <Number>13</Number>
+                        <Title>Bad Cop</Title>
+                        <Length>2:25</Length>
+                    </Song>
+                    <Song>
+                        <Number>14</Number>
+                        <Title>Loch Lomond</Title>
+                        <Length>2:30</Length>
+                    </Song>
+                </Songs>
             </Album>
             <Album>
                 <Name>Lost at Seventeen</Name>
                 <Year>2013</Year>
+                <Song>
+                        <Number>1</Number>
+                        <Title>Broadcast This</Title>
+                        <Length>2:17</Length>
+                    </Song>
             </Album>
             <Album>
                 <Name>Drive North</Name>
