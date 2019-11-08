@@ -35,9 +35,7 @@
         WikipediaEN="https://en.wikipedia.org/wiki/SWMRS"
     />
 
-    <Image
-        ImagenURL="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.salarazzmatazz.com%2F23-02-2019%2Fswmrs&psig=AOvVaw06-_25C5xkMKFQXZwJS2G5&ust=1571337806632000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjnqtG3oeUCFQAAAAAdAAAAABAE"
-        />
+    <Image>https://www.salarazzmatazz.com/pic/storage/artists/November2018/Pressshot-Nov2018%281%29__1920x964.jpg</Image>
 
     <Youtube>
         <clip>https://www.youtube.com/watch?v=oDk8KA7gxro</clip>
